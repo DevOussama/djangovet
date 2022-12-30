@@ -20,5 +20,5 @@ venv/
 # pycharm
 .idea/
 
-./djangovet/settings.py
+djangovet/settings.py
 
